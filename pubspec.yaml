@@ -1,6 +1,6 @@
 name: flutter_leaflet
 description: A Flutter component for leaflet integration.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/ginocampra/flutter_leaflet
 repository: https://github.com/ginocampra/flutter_leaflet
 issue_tracker: https://github.com/ginocampra/flutter_leaflet/issues
