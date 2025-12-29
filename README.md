@@ -10,28 +10,28 @@ Allows you to create pages with Leaflet maps in an integrated way with Flutter.
 
 Add the package to your pubspec.yaml:
 
-`bash
+```bash
 flutter pub add flutter_leaflet
-`
+```
 
 This package relies on webview_flutter. Ensure you have the necessary platform implementations:
 
-`bash
+```bash
 flutter pub add webview_flutter
 flutter pub add webview_flutter_web # For web support
-`
+```
 
 ## Usage
 
 Import the package:
 
-`dart
+```dart
 import 'package:flutter_leaflet/flutter_leaflet.dart';
-`
+```
 
 Use the FlutterLeaflet widget in your build method:
 
-`dart
+```dart
 FlutterLeaflet(
   title: 'Initial Map',
   options: LeafletOptions(
@@ -68,7 +68,7 @@ FlutterLeaflet(
     ),
   ],
 )
-`
+```
 
 ## License
 
