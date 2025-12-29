@@ -6,6 +6,8 @@ This project is currently under development. Features may change without notice.
 
 Allows you to create pages with Leaflet maps in an integrated way with Flutter.
 
+<img src="images/itworks.png" alt="Flutter Leaflet" height="350">
+
 ## Installation
 
 Add the package to your pubspec.yaml:
