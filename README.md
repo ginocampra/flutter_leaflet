@@ -10,13 +10,13 @@ Allows you to create pages with Leaflet maps in an integrated way with Flutter.
 
 Add the package to your pubspec.yaml:
 
-`ash
+`bash
 flutter pub add flutter_leaflet
 `
 
 This package relies on webview_flutter. Ensure you have the necessary platform implementations:
 
-`ash
+`bash
 flutter pub add webview_flutter
 flutter pub add webview_flutter_web # For web support
 `
