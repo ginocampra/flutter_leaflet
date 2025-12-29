@@ -1,3 +1,3 @@
 ## 0.0.1
-
-* TODO: Describe initial release.
+- Initial public release.
+- Added core widget and example project.
